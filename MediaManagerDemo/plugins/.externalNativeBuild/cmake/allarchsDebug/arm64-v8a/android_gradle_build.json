@@ -1,0 +1,169 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/natalie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"lib_aruco-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_aruco",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libaruco.a",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_iconv-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_iconv",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libiconv.a",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_opencv_calib3d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_opencv_calib3d",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_calib3d.so",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_opencv_core-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_opencv_core",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_core.so",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_opencv_features2d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_opencv_features2d",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_features2d.so",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_opencv_imgproc-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_opencv_imgproc",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_imgproc.so",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_opencv_objdetect-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_opencv_objdetect",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_objdetect.so",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_tbb-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_tbb",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libtbb.so",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_wikitudePlugins-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_wikitudePlugins",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libWikitudePlugins.a",
+			"toolchain" : "9434630966875647930"
+		},
+		"lib_zbar-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lib_zbar",
+			"buildType" : "debug",
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libzbar.a",
+			"toolchain" : "9434630966875647930"
+		},
+		"wikitudePlugins-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "wikitudePlugins",
+			"buildCommand" : "/Users/natalie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a --target wikitudePlugins",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/jniHelper.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/JniRegistration.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode/BarcodePlugin.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection/FaceDetectionPlugin.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection/FaceDetectionPluginConnector.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking/MarkerTrackingPlugin.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin/SimpleInputPlugin.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera/YUVFrameInputPlugin.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/natalie/Library/Android/sdk/ndk-bundle/sysroot  -DwikitudePlugins_EXPORTS -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/aruco -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2 -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/core -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/imgproc -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/opencv2/objdetect -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/wikitude -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/include/zbar -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/barcode -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/face_detection -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/marker_tracking -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/simple_input_plugin -I/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/natalie/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++14 -Wno-inconsistent-missing-override -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/src/custom_camera/YUVFrameShaderSourceObject.cpp",
+					"workingDirectory" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsDebug/arm64-v8a"
+				}
+			],
+			"output" : "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/build/wikitude/libs/arm64-v8a/libwikitudePlugins.so",
+			"toolchain" : "9434630966875647930"
+		}
+	},
+	"toolchains" : 
+	{
+		"9434630966875647930" : 
+		{
+			"cCompilerExecutable" : "/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/natalie/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

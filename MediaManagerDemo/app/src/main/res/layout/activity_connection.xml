@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_connection_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="290dp"
+        android:drawableLeft="@drawable/ic_signal_wifi_off_24dp"
+        android:gravity="center"
+        android:text=" No Drone Connected"
+        android:textColor="#39796b"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_product_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="260dp"
+        android:gravity="center"
+        android:text="@string/product_information"
+        android:textColor="#39796b"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <!--
+    <TextView
+        android:id="@+id/text_model_available"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="226dp"
+        android:gravity="center"
+        android:text="@string/model_not_available"
+        android:textSize="15dp" />
+    -->
+    <Button
+        android:id="@+id/btn_open"
+        android:layout_width="250dp"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="180dp"
+        android:background="@drawable/round_btn"
+        android:text="Start Flying"
+        android:textColor="@color/colorWhite"
+        android:textSize="20dp"
+        tools:background="#A9d440" />
+
+    <!--
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+    </LinearLayout>
+    -->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#39796b"
+            android:focusable="false"
+            android:text="Share"
+            android:drawableTop="@drawable/ic_share_24dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/btn_rent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#39796b"
+            android:focusable="false"
+            android:text="Rent"
+            android:drawableTop="@drawable/ic_map_24dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+</RelativeLayout>

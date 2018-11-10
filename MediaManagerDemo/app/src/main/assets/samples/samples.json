@@ -1,0 +1,59 @@
+[
+    {
+        "category_name": "AR Mode",
+        "samples": [
+            {
+                "required_extensions": [
+                    "custom_camera"
+                ],
+                "name": "introduction video",
+                "path": "introduction_video/index.html",
+                "requiredFeatures": [
+                    "image_tracking"
+                ],
+                "startupConfiguration": {
+                    "camera_position": "back"
+                }
+            },
+            {
+                "required_extensions": [
+                    "custom_camera"
+                ],
+                "name": "Attraction introduction",
+                "path": "around/index.html",
+                "requiredFeatures": [
+                    "image_tracking"
+                ],
+                "startupConfiguration": {
+                    "camera_position": "back"
+                }
+            },
+            {
+                "required_extensions": [
+                    "custom_camera"
+                ],
+                "name": "Take photos",
+                "path": "takephoto/index.html",
+                "requiredFeatures": [
+                    "image_tracking"
+                ],
+                "startupConfiguration": {
+                    "camera_position": "back"
+                }
+            },
+            {
+                "required_extensions": [
+                    "custom_camera"
+                ],
+                "name": "Turn back the time",
+                "path": "photo1/index.html",
+                "requiredFeatures": [
+                    "image_tracking"
+                ],
+                "startupConfiguration": {
+                    "camera_position": "back"
+                }
+            }
+        ]
+    }
+]

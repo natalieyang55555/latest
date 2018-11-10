@@ -1,0 +1,66 @@
+{
+  "buildFiles": [
+    "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/natalie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/arm8Release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "lib_opencv_features2d-Release-arm64-v8a": {
+      "artifactName": "lib_opencv_features2d",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_features2d.so"
+    },
+    "lib_tbb-Release-arm64-v8a": {
+      "artifactName": "lib_tbb",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libtbb.so"
+    },
+    "lib_zbar-Release-arm64-v8a": {
+      "artifactName": "lib_zbar",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libzbar.a"
+    },
+    "wikitudePlugins-Release-arm64-v8a": {
+      "artifactName": "wikitudePlugins",
+      "buildCommand": "/Users/natalie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/arm8Release/arm64-v8a --target wikitudePlugins",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/build/wikitude/libs/arm64-v8a/libwikitudePlugins.so"
+    },
+    "lib_opencv_imgproc-Release-arm64-v8a": {
+      "artifactName": "lib_opencv_imgproc",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_imgproc.so"
+    },
+    "lib_opencv_objdetect-Release-arm64-v8a": {
+      "artifactName": "lib_opencv_objdetect",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_objdetect.so"
+    },
+    "lib_opencv_core-Release-arm64-v8a": {
+      "artifactName": "lib_opencv_core",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_core.so"
+    },
+    "lib_aruco-Release-arm64-v8a": {
+      "artifactName": "lib_aruco",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libaruco.a"
+    },
+    "lib_opencv_calib3d-Release-arm64-v8a": {
+      "artifactName": "lib_opencv_calib3d",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libopencv_calib3d.so"
+    },
+    "lib_iconv-Release-arm64-v8a": {
+      "artifactName": "lib_iconv",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libiconv.a"
+    },
+    "lib_wikitudePlugins-Release-arm64-v8a": {
+      "artifactName": "lib_wikitudePlugins",
+      "abi": "arm64-v8a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/arm64-v8a/libWikitudePlugins.a"
+    }
+  }
+}

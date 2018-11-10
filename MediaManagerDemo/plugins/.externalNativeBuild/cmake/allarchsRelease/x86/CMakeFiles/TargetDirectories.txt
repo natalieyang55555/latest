@@ -1,0 +1,3 @@
+/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsRelease/x86/CMakeFiles/edit_cache.dir
+/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsRelease/x86/CMakeFiles/rebuild_cache.dir
+/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsRelease/x86/CMakeFiles/wikitudePlugins.dir

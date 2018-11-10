@@ -1,0 +1,66 @@
+{
+  "buildFiles": [
+    "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/natalie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsRelease/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "lib_wikitudePlugins-Release-armeabi-v7a": {
+      "artifactName": "lib_wikitudePlugins",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libWikitudePlugins.a"
+    },
+    "lib_opencv_features2d-Release-armeabi-v7a": {
+      "artifactName": "lib_opencv_features2d",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libopencv_features2d.so"
+    },
+    "lib_iconv-Release-armeabi-v7a": {
+      "artifactName": "lib_iconv",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libiconv.a"
+    },
+    "lib_zbar-Release-armeabi-v7a": {
+      "artifactName": "lib_zbar",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libzbar.a"
+    },
+    "lib_opencv_core-Release-armeabi-v7a": {
+      "artifactName": "lib_opencv_core",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libopencv_core.so"
+    },
+    "lib_opencv_imgproc-Release-armeabi-v7a": {
+      "artifactName": "lib_opencv_imgproc",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libopencv_imgproc.so"
+    },
+    "lib_aruco-Release-armeabi-v7a": {
+      "artifactName": "lib_aruco",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libaruco.a"
+    },
+    "lib_opencv_calib3d-Release-armeabi-v7a": {
+      "artifactName": "lib_opencv_calib3d",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libopencv_calib3d.so"
+    },
+    "lib_opencv_objdetect-Release-armeabi-v7a": {
+      "artifactName": "lib_opencv_objdetect",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libopencv_objdetect.so"
+    },
+    "wikitudePlugins-Release-armeabi-v7a": {
+      "artifactName": "wikitudePlugins",
+      "buildCommand": "/Users/natalie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/allarchsRelease/armeabi-v7a --target wikitudePlugins",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/build/wikitude/libs/armeabi-v7a/libwikitudePlugins.so"
+    },
+    "lib_tbb-Release-armeabi-v7a": {
+      "artifactName": "lib_tbb",
+      "abi": "armeabi-v7a",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/armeabi-v7a/libtbb.so"
+    }
+  }
+}

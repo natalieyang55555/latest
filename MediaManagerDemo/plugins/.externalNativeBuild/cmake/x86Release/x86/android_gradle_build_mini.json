@@ -1,0 +1,66 @@
+{
+  "buildFiles": [
+    "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/natalie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/x86Release/x86 --target clean"
+  ],
+  "libraries": {
+    "lib_opencv_imgproc-Release-x86": {
+      "artifactName": "lib_opencv_imgproc",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libopencv_imgproc.so"
+    },
+    "lib_aruco-Release-x86": {
+      "artifactName": "lib_aruco",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libaruco.a"
+    },
+    "lib_opencv_calib3d-Release-x86": {
+      "artifactName": "lib_opencv_calib3d",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libopencv_calib3d.so"
+    },
+    "lib_opencv_features2d-Release-x86": {
+      "artifactName": "lib_opencv_features2d",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libopencv_features2d.so"
+    },
+    "lib_wikitudePlugins-Release-x86": {
+      "artifactName": "lib_wikitudePlugins",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libWikitudePlugins.a"
+    },
+    "wikitudePlugins-Release-x86": {
+      "artifactName": "wikitudePlugins",
+      "buildCommand": "/Users/natalie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/.externalNativeBuild/cmake/x86Release/x86 --target wikitudePlugins",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/build/wikitude/libs/x86/libwikitudePlugins.so"
+    },
+    "lib_tbb-Release-x86": {
+      "artifactName": "lib_tbb",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libtbb.so"
+    },
+    "lib_opencv_objdetect-Release-x86": {
+      "artifactName": "lib_opencv_objdetect",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libopencv_objdetect.so"
+    },
+    "lib_iconv-Release-x86": {
+      "artifactName": "lib_iconv",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libiconv.a"
+    },
+    "lib_opencv_core-Release-x86": {
+      "artifactName": "lib_opencv_core",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libopencv_core.so"
+    },
+    "lib_zbar-Release-x86": {
+      "artifactName": "lib_zbar",
+      "abi": "x86",
+      "output": "/Users/natalie/Documents/GitHub/Dji_videodecoder_example/MediaManagerDemo/plugins/src/main/cpp/lib/x86/libzbar.a"
+    }
+  }
+}
